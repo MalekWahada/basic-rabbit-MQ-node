@@ -1,6 +1,5 @@
 ## DESCRIPTION
-This is a simple asnychronous job manager app, built with node to illustarte how [Rabbit-MQ](https://www.rabbitmq.com/definitions.html) queuing system works.
-
+This is a simple asynchronous job manager app, built with Node to illustrate how the [Rabbit-MQ](https://www.rabbitmq.com/definitions.html) queuing system works.
 
 ## PREREQUISITES
 - Make sure that you have an installed node package management system like [yarn](https://classic.yarnpkg.com/en/docs/install/) or [npm](https://nodejs.org/en/download/package-manager/).
